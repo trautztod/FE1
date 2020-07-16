@@ -13,7 +13,7 @@ import Grid from "@material-ui/core/Grid";
 import Typography from "@material-ui/core/Typography";
 
 import ShowAllCategories from "../../components/blogs/ShowAllCategories";
-import ShowAllTags from "../../components/blogs/showAllTags";
+import ShowAllTags from "../../components/blogs/ShowAllTags";
 import RelatedBlogCard from "../../components/blogs/RelatedBlogCard";
 import DisqusThread from "../../components/comments/disqusThread";
 import StickyFooter from "../../components/pageoutline/Footer/Footer";
