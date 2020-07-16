@@ -8,7 +8,7 @@ import Grid from "@material-ui/core/Grid";
 
 import PaperList from "../../components/blogs/PaperList";
 import ShowAllCategories from "../../components/blogs/ShowAllCategories";
-import ShowAllTags from "../../components/blogs/showAllTags";
+import ShowAllTags from "../../components/blogs/ShowAllTags";
 
 import Loader from "../../utils/components/Loader";
 import StickyFooter from "../../components/pageoutline/Footer/Footer";
