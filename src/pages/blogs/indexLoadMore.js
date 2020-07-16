@@ -10,7 +10,7 @@ import Button from "@material-ui/core/Button";
 
 import PaperList from "../../components/blogs/PaperList";
 import ShowAllCategories from "../../components/blogs/ShowAllCategories";
-import ShowAllTags from "../../components/blogs/showAllTags";
+import ShowAllTags from "../../components/blogs/ShowAllTags";
 import StickyFooter from "../../components/pageoutline/Footer/Footer";
 
 const Blogs = ({
